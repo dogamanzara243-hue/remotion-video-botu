@@ -1,0 +1,14 @@
+{
+  "name": "remotion-video-botu",
+  "version": "1.0.0",
+  "description": "Remotion video otomasyonu",
+  "main": "index.js",
+  "scripts": {
+    "dev": "remotion studio",
+    "build": "remotion render"
+  },
+  "dependencies": {
+    "remotion": "^4.0.0",
+    "@remotion/cli": "^4.0.0"
+  }
+}
